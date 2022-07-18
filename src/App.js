@@ -3,6 +3,7 @@ import React from "react";
 import Hero from "./components/Hero";
 import Header from "./components/Header";
 import Features from "./components/Features";
+import NewItems from "./components/NewItems";
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
       <Header />
       <Hero />
       <Features />
+      <NewItems />
     </div>
   );
 };
