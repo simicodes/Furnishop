@@ -9,7 +9,7 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 //import data
-import { newInStore, products } from "../data";
+import { newInStore } from "../data";
 
 const NewItemsSlider = () => {
   return (
