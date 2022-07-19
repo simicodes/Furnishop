@@ -13,7 +13,7 @@ const Testimonial = () => {
     <section className="section">
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row lg:gap-x-10 gap-y-2">
-          <div className="max-w-[50%]">
+          <div className="max-w-[450%] lg:max-w-[50%] ">
             {/* title */}
             <h2 className="title mb-9">{title}</h2>
             {/* slider */}
